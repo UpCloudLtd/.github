@@ -1,6 +1,6 @@
 # Hello! 👋
 
-![Never become yet another.](https://github.com/UpCloudLtd/.github/blob/main/profile/banner.png?raw=true)
+![Unbeatable cloud infrastructure](https://raw.githubusercontent.com/UpCloudLtd/.github/refs/heads/main/profile/banner.png)
 
 This is the GitHub organisation for [UpCloud](https://upcloud.com/), a leading European cloud service provider with a global cloud platform spanning four continents. UpCloud offers Cloud Servers, Managed Kubernetes, Managed Databases, Object Storage and more.
 
