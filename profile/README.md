@@ -8,7 +8,7 @@ This is the GitHub organisation for [UpCloud](https://upcloud.com/), a leading E
 
 Our public repositories include:
 
-- Tooling for better developer experience: [Ansible collection](https://github.com/UpCloudLtd/upcloud-ansible-collection), [Go SDK](https://github.com/UpCloudLtd/upcloud-go-api), [Packer plugin](https://github.com/UpCloudLtd/packer-plugin-upcloud),  [Python SDK](https://github.com/UpCloudLtd/upcloud-python-api),  [Terraform provider](https://github.com/UpCloudLtd/terraform-provider-upcloud), [upctl (command-line client)](https://github.com/UpCloudLtd/upcloud-cli)
+- Tooling for better developer experience: [Ansible collection](https://github.com/UpCloudLtd/upcloud-ansible-collection), [Go SDK](https://github.com/UpCloudLtd/upcloud-go-api), [Packer plugin](https://github.com/UpCloudLtd/packer-plugin-upcloud),  [Python SDK](https://github.com/UpCloudLtd/upcloud-python-api), [Pulumi resource provider](https://github.com/UpCloudLtd/pulumi-upcloud), [OpenTofu/Terraform provider](https://github.com/UpCloudLtd/terraform-provider-upcloud), [upctl (command-line client)](https://github.com/UpCloudLtd/upcloud-cli)
 - Libraries and tools we use to build our products and tooling: [http-mockery](https://github.com/UpCloudLtd/http-mockery), [progress](https://github.com/UpCloudLtd/progress)
 
 ## 💬 How to reach us?
